@@ -18,7 +18,7 @@ sed -i "s/^  upstream_dns_file.*$/  upstream_dns_file: \"\/opt\/AdGuardHome\/ups
 3.重启   
 systemctl restart AdGuardHome.service
 
-4.升级规则   
+更新规则   
 bash  /opt/AdGuardHome/update.sh
 
 # 感谢 
