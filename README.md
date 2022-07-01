@@ -1,0 +1,2 @@
+# adguardhome_upstream_dns
+adguardhome通过设置上游dns的方式进行分流
