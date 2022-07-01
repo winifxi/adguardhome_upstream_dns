@@ -2,7 +2,7 @@
 adguardhome通过设置上游dns的方式进行分流
 
 用到了 https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt   
-实际是通过正则表达式（见update.sh）将direct-list.txt转成adguardhome的上游dns文件
+实际是通过正则表达式（见update.sh）将direct-list.txt转成adguardhome的上游dns文件   
 命中的将使用 tls://120.53.53.53 查询    
 没中的 https://public.dns.iij.jp/dns-query  https://doh.opendns.com/dns-query 等境外服务器查询
 
