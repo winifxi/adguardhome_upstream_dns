@@ -22,4 +22,4 @@ systemctl restart AdGuardHome.service
 bash  /opt/AdGuardHome/update.sh
 
 # 感谢 
-Loyalsoldier/v2ray-rules-dat  （https://github.com/Loyalsoldier/v2ray-rules-dat）
+Loyalsoldier/v2ray-rules-dat   https://github.com/Loyalsoldier/v2ray-rules-dat
